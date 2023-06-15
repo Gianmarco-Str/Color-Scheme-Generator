@@ -1,0 +1,15 @@
+{
+    "name": "Color Scheme Generator",
+    "short_name": "CS Generator",
+    "description": "choose a base color and the type of color scheme you want, and it will generate a beautiful color palette for you.",
+    "icons":
+        [
+            {"src":"./images/color-icon-big-png","sizes":"192x192","type":"image/png"},
+            {"src":"./images/color-icon-medium-png","sizes":"96x96","type":"image/png"},
+            {"src":"./images/color-icon-small-png","sizes":"48x48","type":"image/png"}
+        ],
+    "theme_color": "#FFBA0A",
+    "background_color": "#FFBA0A",
+    "orientation": "portrait",
+    "display": "standalone"
+}
